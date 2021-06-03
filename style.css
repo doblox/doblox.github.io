@@ -1,0 +1,24 @@
+* {
+	text-align:center;
+}
+
+body {
+    font-family: 'Arial', monospace;
+	background-image: url('background/fundo.png');
+    background-color: #111;
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.h1 {
+	margin: 0 0 0px;
+	top: 40px;
+}
+
+.logo {
+	width: 60px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
